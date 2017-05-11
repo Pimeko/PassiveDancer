@@ -1,0 +1,13 @@
+Achievements Explanations
+
+- Sniper : Kill all the ennemies without losing a bullet
+- Double shot : Kill two ennemies with one bullet
+- Triple shot : Kill three ennemies with one bullet
+- UFO : Kill the special alien
+- Self sabotage : Destroy every last rock of each bunker
+- Bonus needed : Finish a level by collecting all bonus
+- Who needs bonus : Finish a level without collecting any bonus
+- Perfect : Finish a level without losing a life
+- Bullet Wall : Destroy a bullet of an alien
+- Highest ground : Go to the last level
+- PGM : Go to the last level without losing one life

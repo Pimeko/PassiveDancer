@@ -1,0 +1,49 @@
+This declaration is applicable to Project Space Invaders of Computer Science in 2015
+
+By including this document as part of my assignment submission, I, Widawski Benjamin Arthur Raphael, 
+  (Student number 19675089) declare the following:
+
+[BEGIN DECLARATION]
+Stellenbosch University Computer Science Assignment Declaration 
+---------------------------------------------------------------
+ 
+I know that using another person’s ideas (including written work and source
+code) and claiming them as my own constitutes plagiarism. I am aware that the
+potential penalties for this offence, as specified in the university’s policy
+on academic integrity, may include expulsion from the university and other
+serious consequences. 
+ 
+1. This submission is entirely my own work, excepting the inclusion of
+resources explicitly permitted for this assignment, and assistance as noted in
+the following item. 
+
+2. My submission acknowledges the source of all libraries and external sources
+used, and identifies any other students and/or staff (including demis, tutors,
+and lecturers) with whom I have discussed this assignment, as well as the
+extent of those discussions. Students and staff who helped me, or whom I
+helped, with debugging, should specifically be listed, as well as what portions
+of the code were involved.  (Note that, unless explicitly stated otherwise,
+submissions or solutions to assignments in previous courses at this university
+or any other educational institution which correspond to (significant portions
+of) this assignment may not be used as external sources ­ in particular, do not
+look at or use solutions to assignments from previous years.) 
+
+3. I have not allowed, and will not in the future allow, anyone to copy any
+portion of my work, or give them access to it in any way, since they may have
+the intention of passing it off as their own work (whether as is, or in a
+modified form).  In addition, I will not make my work publicly available in any
+way, including posting my code in public source code repositories or forums.
+(You may, however, allow someone to look at selected portions of your code for
+the purposes of debugging, but you may not make the code available to him/her
+otherwise.) 
+
+4. I have not and will not facilitate plagiarism, such as by distributing any
+written work or source code created by a fellow student. 
+
+5. I understand that any code I submit may be inspected for plagiarism
+detection (either manually or by automated systems) and be retained for
+detecting plagiarism in other courses. 
+[END DECLARATION]
+
+Acknowledgement of sources
+--------------------------
